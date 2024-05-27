@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -56,7 +56,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="avion.png" alt="Avion" class="logo">
+        <img src="avion.png" alt="Avion.png" class="logo">
         <form class="codigo-form">
             <input type="text" id="codigo" placeholder="Ingrese codigo">
             <button type="button" onclick="mostrarImagen()">Ingresar codigo</button>
