@@ -56,7 +56,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="avion.png" alt="Avion.png" class="logo">
+        <img src="AVION.png" alt="AVION.PNG" class="logo">
         <form class="codigo-form">
             <input type="text" id="codigo" placeholder="Ingrese codigo">
             <button type="button" onclick="mostrarImagen()">Ingresar codigo</button>
